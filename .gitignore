@@ -1,0 +1,17 @@
+# Lists all the folders & files u want git to not push (ignore)
+
+
+# ignore all these long auto generated folders & files
+
+this.py
+vpc.ipynb
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+crash.log 
+.tfstate
+*.tfstate
+.terraform.lock.hcl
+terraform.tfstate.backup
